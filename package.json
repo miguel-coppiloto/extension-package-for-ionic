@@ -1,0 +1,35 @@
+{
+  "name": "extension-package-for-ionic",
+  "displayName": "Extension Package for Ionic",
+  "description": "VS Code Extension Package for Ionic",
+  "publisher": "Coppiloto.com",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.69.0"
+  },
+  "categories": [
+    "Extension Packs"
+  ],
+  "keywords": [
+    "ionic",
+    "extension",
+    "pack",
+    "angular",
+    "git"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/miguel-coppiloto/extension-package-for-ionic.git"
+  },
+  "extensionPack": [
+    "dbaeumer.vscode-eslint",
+    "ms-vscode.vscode-typescript-next",
+    "Angular.ng-template",
+    "Ionic.ionic",
+    "esbenp.prettier-vscode",
+    "MariusAlchimavicius.json-to-ts",
+    "eamodio.gitlens",
+    "mhutchie.git-graph",
+    "adam-bender.commit-message-editor"
+  ]
+}
