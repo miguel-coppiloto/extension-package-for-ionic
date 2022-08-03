@@ -2,7 +2,7 @@
   "name": "extension-package-for-ionic",
   "displayName": "Extension Package for Ionic",
   "description": "VS Code Extension Package for Ionic",
-  "publisher": "Coppiloto.com",
+  "publisher": "Coppiloto",
   "version": "0.0.1",
   "engines": {
     "vscode": "^1.69.0"
