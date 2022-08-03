@@ -1,16 +1,20 @@
-# extension-package-for-ionic README
+# README
 
-## Working with Markdown
+## Extension
 
-You can author your README using Visual Studio Code. Here are some useful editor keyboard shortcuts:
+This extension pack include ready-to-use element to work with Typescript / Angular / Ionic & super cool extensions to work with git, convert TS and formating code:
 
-* Split the editor (`Cmd+\` on macOS or `Ctrl+\` on Windows and Linux).
-* Toggle preview (`Shift+Cmd+V` on macOS or `Shift+Ctrl+V` on Windows and Linux).
-* Press `Ctrl+Space` (Windows, Linux, macOS) to see a list of Markdown snippets.
+- Official extension for Ionic and Capacitor development (Ionic).
+- Angular Language Service (Angular).
+- ESLint (Microsoft).
+- GitLens — Git supercharged (GitKraken).
+- Git Graph (mhutchie).
+- Commit Message Editor (Adam Bender).
+- JSON to TS (MariusAlchimavicius).
+- Prettier - Code formatter (Prettier).
 
 ## For more information
 
-* [Visual Studio Code's Markdown Support](http://code.visualstudio.com/docs/languages/markdown)
-* [Markdown Syntax Reference](https://help.github.com/articles/markdown-basics/)
+- [Repo](https://github.com/miguel-coppiloto/extension-package-for-ionic)
 
 **Enjoy!**
