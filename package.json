@@ -24,7 +24,6 @@
   },
   "extensionPack": [
     "dbaeumer.vscode-eslint",
-    "ms-vscode.vscode-typescript-next",
     "Angular.ng-template",
     "Ionic.ionic",
     "fivethree.vscode-ionic-snippets",
