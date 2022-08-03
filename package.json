@@ -27,6 +27,7 @@
     "ms-vscode.vscode-typescript-next",
     "Angular.ng-template",
     "Ionic.ionic",
+    "fivethree.vscode-ionic-snippets",
     "esbenp.prettier-vscode",
     "MariusAlchimavicius.json-to-ts",
     "eamodio.gitlens",

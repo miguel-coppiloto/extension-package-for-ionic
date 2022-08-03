@@ -7,6 +7,7 @@ This extension pack include ready-to-use element to work with Typescript / Angul
 - Official extension for Ionic and Capacitor development (Ionic).
 - Angular Language Service (Angular).
 - ESLint (Microsoft).
+- Ionic Snippets (fivethree).
 - GitLens — Git supercharged (GitKraken).
 - Git Graph (mhutchie).
 - Commit Message Editor (Adam Bender).
